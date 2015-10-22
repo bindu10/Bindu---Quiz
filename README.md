@@ -1,2 +1,0 @@
-# Bindu---Quiz
-quiz
